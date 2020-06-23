@@ -1,5 +1,5 @@
 # evenOdd
-http://localhost:8081/buildStatus/text?job=JET-libraries
+[![Build Status](http://localhost:8081/buildStatus/icon?job=JET-libraries)](http://localhost:8081/job/JET-libraries/)
 
 A Jenkins even/odd playbook from the Jenkins.io documentation
 
